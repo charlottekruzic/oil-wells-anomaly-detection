@@ -32,9 +32,9 @@ Afin de préparer ces données pour qu’elles puissent être traitées par des 
 
 ### Sources :
 
-- [Why CNN is Suitable for Time Series Data – StackExchange](https://stats.stackexchange.com/questions/550769/why-cnn-is-suitable-for-time-series-data)
-- [How to Use CNNs for Time Series Classification – Towards Data Science](https://towardsdatascience.com/how-to-use-convolutional-neural-networks-for-time-series-classification-56b1b0a07a57)
-- [CNN for Time Series Forecasting – Machine Learning Mastery](https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/)
-- [CNNs for Sequence Processing (Part 1) – Medium](https://laxfed.medium.com/convolutional-neural-networks-for-sequence-processing-part-1-420dd9b500)
-- [Data Transforms for Time Series Forecasting – Machine Learning Mastery](https://machinelearningmastery.com/machine-learning-data-transforms-for-time-series-forecasting/)
-- [Understanding 1D, 2D and 3D Convolution – Kaggle](https://www.kaggle.com/code/mersico/understanding-1d-2d-and-3d-convolution-network)
+- [Why CNN is suitable for time series data – StackExchange](https://stats.stackexchange.com/questions/550769/why-cnn-is-suitable-for-time-series-data)
+- [How to use CNNs for time series classification – towards data science](https://towardsdatascience.com/how-to-use-convolutional-neural-networks-for-time-series-classification-56b1b0a07a57)
+- [CNN for time series forecasting – Machine Learning Mastery](https://machinelearningmastery.com/how-to-develop-convolutional-neural-network-models-for-time-series-forecasting/)
+- [CNNs for sequence processing (Part 1) – Medium](https://laxfed.medium.com/convolutional-neural-networks-for-sequence-processing-part-1-420dd9b500)
+- [Data transforms for time series forecasting – Machine Learning Mastery](https://machinelearningmastery.com/machine-learning-data-transforms-for-time-series-forecasting/)
+- [Understanding 1D, 2D and 3D convolution – Kaggle](https://www.kaggle.com/code/mersico/understanding-1d-2d-and-3d-convolution-network)
