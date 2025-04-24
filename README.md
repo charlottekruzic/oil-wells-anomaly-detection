@@ -1,4 +1,6 @@
 # Oil wells anomaly detection
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
+
 ## 🔎 Overview
 This project focuses on detecting abnormal events in oil wells using time series data. It implements several 1D Convolutional Neural Network (CNN) architectures to classify time series data into three different categories of events (normal operation and two types of anomalies).
 
