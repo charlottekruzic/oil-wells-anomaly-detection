@@ -8,7 +8,7 @@ This project focuses on detecting abnormal events in oil wells using time series
 The project is divided into two main parts:
 
 1. **Theoretical explanation of why 1D CNNs are suitable for time series data**  
-    → Presented in the [`preliminary-report.md`](./ressources/preliminary-report.md) file
+    → Presented in the [`preliminary-report.md`](./resources/preliminary-report.md) file
 
 2. **Implementation of multiple CNN models with comparative analysis**  
     → Developed in the [`oil-well-anomaly-detection.ipynb`](./oil-well-anomaly-detection.ipynb) notebook, and is also available in [`.html`](./oil-well-anomaly-detection.html) and [`.pdf`](./oil-well-anomaly-detection.pdf) formats for easier viewing
@@ -96,4 +96,4 @@ This project was developed during the first year of the Master’s program in Da
 ## 📝 Documentation
 All analysis details, code, and results are available in the [notebook](./oil-well-anomaly-detection.ipynb) (in french), along with [HTML](./oil-well-anomaly-detection.html) and [PDF](./oil-well-anomaly-detection.pdf) exports of the notebook for easier viewing.
 
-A [preliminary theoretical report](./ressources/preliminary-report.md) (in french) explaining the relevance of 1D CNNs for time series data is also available.
+A [preliminary theoretical report](./resources/preliminary-report.md) (in french) explaining the relevance of 1D CNNs for time series data is also available.
